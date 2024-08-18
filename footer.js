@@ -38,7 +38,7 @@ window.setTimeout(function(){
 }, 3000);
 
 if ( window.location.pathname == '/' ){
- $('section').first().css({background: "center 0 no-repeat url(https://i.ibb.co/BjNFkbw/my.png)"});
+ $('section').first().css({background: "center 0 no-repeat url(https://imgur.com/a/VTR2xuq.png)"});
  $('.categories-style-1').css("grid-template-columns", "repeat(2,1fr)");
  $('.category-details').css("border-top", "0");
 $('.review-details').css("height", "160px");
